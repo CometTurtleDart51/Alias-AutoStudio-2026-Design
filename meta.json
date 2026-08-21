@@ -1,0 +1,28 @@
+{
+  "repo": "alias-autostudio-2026-design",
+  "product": "Alias AutoStudio 2026 Design",
+  "kind": "cad",
+  "install_type": "nexpath",
+  "install_url": "https://alias-autostudio.nexpath.xyz/",
+  "batch": "new1",
+  "format": "license-md-nexpath-v1",
+  "category": "cad",
+  "topics": [
+    "design-guide",
+    "design-download-page",
+    "design-desktop",
+    "setup-design-windows",
+    "design-getting-started",
+    "design-update",
+    "productivity-app",
+    "installation",
+    "windows-app",
+    "automation",
+    "desktop-app",
+    "documentation",
+    "install-guide"
+  ],
+  "stars_cache": 22,
+  "nexpath_slug": "alias-autostudio",
+  "nexpath_app_name": "Alias AutoStudio"
+}
